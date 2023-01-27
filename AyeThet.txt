@@ -3,3 +3,6 @@ Hello
 Today, I learned about SVN and Git
 
 Hello Everyone Good Morning
+
+
+Today is friday
